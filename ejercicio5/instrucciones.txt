@@ -1,0 +1,10 @@
+--------------------------------DESPLIGUE DE LA APLICACIÓN--------------------------------
+0.El archivo File.txt que contiene el contenido del cuerpo tiene que estar en la raiz de la carpeta ejercicio5.
+0.1Tienes que tener previamente python v2.7 instalado en el ordenador  (sudo apt-get install python2.7)
+  se recomineda hacer un update y un upgrade ( sudo apt-get update)(sudo apt-get upgrade)
+1.descomprimes la carpeta de ejercicio5.
+  1.2. entras en la carpeta descomprimida de ejercicio5.
+--------------------------------USO DE LA APLICACIÓN--------------------------------
+2. ejecutas el script con >> python2.7 correos2.py
+  2.1 la ejecución del script cogerá los datos que tiene el csv (nombre y mail) y enviará  un correo correspondiente.
+Nota: si  quieres añadir más personas en el CSV a la hora de guardarlo no olvides de poner el delimitador de campos con ;(punto y coma).
